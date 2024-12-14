@@ -7,6 +7,7 @@ dotenv.config();
 // Polyfill fetch and Headers globally for Node.js < 18
 if (!global.fetch) {
   global.fetch = fetch;
+  
 }
 
 if (!global.Headers) {
