@@ -15,4 +15,5 @@ graphQl architecture
 ![image](https://github.com/user-attachments/assets/5da678d7-4e7e-4a32-8362-53218606f316)
 
 extention of the above diagram
-![Uploading image.png…]()
+ ![image](https://github.com/user-attachments/assets/8f9d6845-d9fa-4828-afe8-7a74ec62d680)
+
