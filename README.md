@@ -10,3 +10,6 @@ https://aistudio.google.com/app/apikey
 https://ai.google.dev/gemini-api/docs/text-generation?lang=node
 
 
+graphQl architecture
+
+![image](https://github.com/user-attachments/assets/5da678d7-4e7e-4a32-8362-53218606f316)
